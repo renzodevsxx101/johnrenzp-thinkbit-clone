@@ -12,7 +12,7 @@ useScrollAnimation(sectionRef)
       <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
         <div>
           <span class="text-2xl font-extrabold text-white block mb-2">
-            <span class="text-[#F97316]">Think</span>BIT
+            <span class="text-[#F97316]">Think</span>BIT Clone
           </span>
           <p class="text-sm text-gray-400">10 Years</p>
           <p class="text-sm text-gray-400 mt-2">We make Ideas Happen</p>
@@ -45,7 +45,7 @@ useScrollAnimation(sectionRef)
         </div>
       </div>
       <div class="border-t border-gray-700 pt-8 text-center text-sm">
-        2026 &copy; ThinkBIT Solutions. Privacy Policy.
+        2026 &copy; ThinkBIT Clone. Privacy Policy.
       </div>
     </div>
   </footer>
