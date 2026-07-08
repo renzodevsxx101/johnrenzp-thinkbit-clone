@@ -15,7 +15,7 @@ const eventsLinks = ['Onsite', 'Raffle', 'Conference']
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex items-center justify-between h-16 lg:h-20">
         <a href="#" class="text-2xl font-extrabold text-[#0A2540]">
-          <span class="text-[#F97316]">Think</span>BIT
+          <span class="text-[#F97316]">Think</span>BIT Clone
         </a>
 
         <div class="hidden lg:flex items-center gap-6">
